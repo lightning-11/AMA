@@ -1,0 +1,14 @@
+C:\Users\sam\Desktop\新增資料夾 (2)\BookSystem\BookSystem_Dao\bin\Debug\BookSystem_Dao.dll
+C:\Users\sam\Desktop\新增資料夾 (2)\BookSystem\BookSystem_Dao\bin\Debug\BookSystem_Dao.pdb
+C:\Users\sam\Desktop\新增資料夾 (2)\BookSystem\BookSystem_Dao\bin\Debug\BookSystem_Common.dll
+C:\Users\sam\Desktop\新增資料夾 (2)\BookSystem\BookSystem_Dao\bin\Debug\BookSystem_Model.dll
+C:\Users\sam\Desktop\新增資料夾 (2)\BookSystem\BookSystem_Dao\bin\Debug\System.Web.Mvc.dll
+C:\Users\sam\Desktop\新增資料夾 (2)\BookSystem\BookSystem_Dao\bin\Debug\BookSystem_Common.pdb
+C:\Users\sam\Desktop\新增資料夾 (2)\BookSystem\BookSystem_Dao\bin\Debug\BookSystem_Model.pdb
+C:\Users\sam\Desktop\新增資料夾 (2)\BookSystem\BookSystem_Dao\bin\Debug\System.Web.Mvc.xml
+C:\Users\sam\Desktop\新增資料夾 (2)\BookSystem\BookSystem_Dao\bin\Debug\zh-Hant\System.Web.Mvc.resources.dll
+C:\Users\sam\Desktop\新增資料夾 (2)\BookSystem\BookSystem_Dao\obj\Debug\BookSystem_Dao.csprojAssemblyReference.cache
+C:\Users\sam\Desktop\新增資料夾 (2)\BookSystem\BookSystem_Dao\obj\Debug\BookSystem_Dao.csproj.CoreCompileInputs.cache
+C:\Users\sam\Desktop\新增資料夾 (2)\BookSystem\BookSystem_Dao\obj\Debug\BookSystem_Dao.csproj.CopyComplete
+C:\Users\sam\Desktop\新增資料夾 (2)\BookSystem\BookSystem_Dao\obj\Debug\BookSystem_Dao.dll
+C:\Users\sam\Desktop\新增資料夾 (2)\BookSystem\BookSystem_Dao\obj\Debug\BookSystem_Dao.pdb
