@@ -1,0 +1,58 @@
+﻿
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>AppMarketingAnalysis</h2>
+<hr />
+<form action="/AppMarketingAnalysis/Index" method="post">
+    <div class="form-horizontal">
+        <div class="form-group">
+            <label class="control-label col-md-2">APP名稱</label>
+            <div class="col-md-10">
+                <input id="AppName" type="text" value="" />
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2">APP類別</label>
+            <div class="col-md-10">
+                <select id="Category"></select>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2">下載數量範圍</label>
+            <div class="col-md-10">
+                <select id="InstallsRange"></select>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label class="control-label col-md-2">貨幣種類</label>
+            <div class="col-md-10">
+                <select id="Currency"></select>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-2">
+            </div>
+            <div class="col-md-12">
+                <input type="button" id="Search" class="btn btn-info" value="查詢" />
+                <input type="button" class="btn btn-info" value="清除" onclick="location.href = '/AppMarketingAnalysis/Index'" />
+            </div>
+        </div>
+    </div>
+</form>
+<div id="Btn_Table" class="btn-group" role="group" aria-label="Btn Table">
+</div>
+<div id="Div_Table">
+    <div id="NotFind" style="color:red;text-align:center;">查無資料</div>
+    <div id="NotSearchYet" style="color:red;text-align:center;">尚未查詢資料</div>
+</div>
+<div>
+    <a href="/AppMarketingAnalysis/Index">回首頁</a>
+</div>
+
+<script src="~/Scripts/Index.js"></script>
