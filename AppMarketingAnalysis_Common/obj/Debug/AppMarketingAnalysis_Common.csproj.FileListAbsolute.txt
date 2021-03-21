@@ -1,6 +1,0 @@
-C:\Users\sam\Desktop\新增資料夾 (2)\BookSystem\BookSystem_Common\bin\Debug\BookSystem_Common.dll
-C:\Users\sam\Desktop\新增資料夾 (2)\BookSystem\BookSystem_Common\bin\Debug\BookSystem_Common.pdb
-C:\Users\sam\Desktop\新增資料夾 (2)\BookSystem\BookSystem_Common\obj\Debug\BookSystem_Common.csprojAssemblyReference.cache
-C:\Users\sam\Desktop\新增資料夾 (2)\BookSystem\BookSystem_Common\obj\Debug\BookSystem_Common.csproj.CoreCompileInputs.cache
-C:\Users\sam\Desktop\新增資料夾 (2)\BookSystem\BookSystem_Common\obj\Debug\BookSystem_Common.dll
-C:\Users\sam\Desktop\新增資料夾 (2)\BookSystem\BookSystem_Common\obj\Debug\BookSystem_Common.pdb
